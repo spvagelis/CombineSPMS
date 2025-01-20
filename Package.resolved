@@ -1,0 +1,24 @@
+{
+  "originHash" : "4b85e34c0999ff9127e55b92a784666cb2818537c98ec181e46c2c1ba465e987",
+  "pins" : [
+    {
+      "identity" : "antifraudspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/spvagelis/AntifraudSPM.git",
+      "state" : {
+        "revision" : "dd260c32cb4ec27b5d5fc7eb27465667d337efd3",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "sharedspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/spvagelis/sharedSPM.git",
+      "state" : {
+        "revision" : "70ce9a7366635d22a58ccfbb8e553944a6cb5edc",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
