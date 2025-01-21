@@ -15,8 +15,8 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/spvagelis/sharedSPM.git",
-                 exact: "1.0.0"),
-        .package(url: "https://github.com/spvagelis/AntifraudSPM.git", exact: "1.0.0")
+                 exact: "1.0.1"),
+        .package(url: "https://github.com/spvagelis/AntifraudSPM.git", exact: "1.0.1")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
