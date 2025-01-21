@@ -6,4 +6,6 @@
 //
 
 import Foundation
-//@_exported import AntifraudSDK
+import AntifraudSPM
+import sharedSPM
+@_exported import AntifraudSPM
